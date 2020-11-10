@@ -1,4 +1,4 @@
-# weather news 
+# Weather-News React App
 
 **Create a Local language news aggregator react app which also provides weather information based on the user's geolocation. You can use open weather map API to fetch weather info - https://openweathermap.org/api You can use GnewsAPI for news info - https://gnews.io - Filter news by user's search query and language**
 
