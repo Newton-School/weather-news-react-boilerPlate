@@ -15,4 +15,4 @@
 - [ ] Should be able to make api call based on search query for weather-info.
 - [ ] Should be able to handle invalid location search query for weather-info.
 
-*Note: please don't make uncessary api calls*
+***Note: please don't make uncessary api calls***
