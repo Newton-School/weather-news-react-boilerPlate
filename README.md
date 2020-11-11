@@ -7,7 +7,7 @@
 - [ ] should able to load show weather info based on user's current location when **App** loads.
 - [ ] should be able to show news info when **App** loads.
 - [ ] After **App** loads completely you should have called ```fetch()``` only 2 times(one for weather-info and one for news-info).
-- [ ] weather info must contain temperature and location(intially user's location, later searched location).
+- [ ] weather info must contain temperature and location(initially user's location, later searched location).
 - [ ] news info must contain title and description of each article.
 - [ ] use **Geolocation.getCurrentPosition()** for user's location.*https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition*
 - [ ] Only one input-box for search query to get weather-info.
@@ -15,4 +15,4 @@
 - [ ] Should be able to make api call based on search query for weather-info.
 - [ ] Should be able to handle invalid location search query for weather-info.
 
-***Note: please don't make uncessary api calls***
+***Note: please don't make unnecessary api calls***
